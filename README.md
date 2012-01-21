@@ -1,1 +1,1 @@
-System for handling and indexing markdown files
+Basic framwork for handling and indexing markdown files, see [node-blog](http://semu.mp/node-blog.html) for a working weblog written in Node.js using [node-markdownblog](http://semu.mp/node-markdownblog.html) and [node-kickstart](http://semu.mp/node-kickstart.html).
