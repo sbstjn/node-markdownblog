@@ -14,7 +14,7 @@
   "engines": {
     "node": "~0.4.10"
   },
-  "keywords": ["framework", "markdown", "blog", "files"],  
+  "keywords": ["framework", "markdown"],  
   "main": "index",
   "dependencies": {
     "markdown": ">= 0.3.1",
