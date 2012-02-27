@@ -2,7 +2,7 @@
   "author": "semu <c@semu.mp> (http://github.com/semu)",
   "name": "node-markdownblog",
   "description": "Framework for indexing and organizing for markdown files. Provides basic features for creating weblog engines.",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "homepage": "http://github.com/semu/node-markdownblog",
   "contributors": [ 
     { "name": "Sebastian Müller", "email": "c@semu.mp" }],  
@@ -12,7 +12,7 @@
   },
   "main": "index",
   "engines": {
-    "node": "~0.4.10"
+    "node": ">= 0.4.10"
   },
   "keywords": ["framework", "markdown"],  
   "main": "index",
